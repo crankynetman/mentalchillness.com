@@ -1,2 +1,2 @@
-# mentalchillness.com
+# mentalchillness.org
 Mental Chillness Site
